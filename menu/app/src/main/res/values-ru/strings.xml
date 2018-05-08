@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Sim Sim</string>
+
+    <string name="navigation_drawer_open">Открыть навигационную панель</string>
+    <string name="navigation_drawer_close">Закрыть навигационную панель</string>
+
+    <string name="action_settings">Пшол отсюда</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="enter">Вход</string>
+    <string name="registration">Регистрация</string>
+    <string name="about_us">О нас</string>
+    <string name="title_activity_login">Зарегестрироваться</string>
+    <string name="error_enter">Неправильный логин или пароль</string>
+
+    <string name="title_activity_registration_page">Регистрация</string>
+    <string name="repeat_password">Повторите пароль</string>
+    <string name="phone_number">Телефон</string>
+    <string name="registration_btn">Регистрация</string>
+    <string name="error_passwords">Пароли не совпадают!</string>
+    <string name="error_len">Некоторые поля слишком короткие</string>
+
+    <string name="add_storage">Добавьте склад</string>
+    <string name="message_existing_storage">Такой склад уже есть!</string>
+    <string name="descFS">Описание</string>
+    <string name="FSid">Имя склада</string>
+
+    <string name="error_FS">Введите имя склада!</string>
+
+    //Пункты меню
+    <string name="add_item">Добавить товар</string>
+    <string name="buy_item">Купить товар</string>
+    <string name="sell_item">Продать товар</string>
+    <string name="control_items">Управление</string>
+    <string name="exchange_items">Обмен товаров</string>
+    <string name="edit_item">Изменить товар</string>
+
+    <string name="add_bar_name">Добавить товар</string>
+    <string name="buy_bar_name">Покупка</string>
+    <string name="sell_bar_name">Продажа</string>
+    <string name="control_bar_name">Управление</string>
+    <string name="exchange_bar_name">Обмен</string>
+
+    <!-- Add fragment-->
+    <string name="vendor_code">Код поставщика</string>
+    <string name="article">Артикул</string>
+    <string name="producer">Производитель</string>
+    <string name="color">Цвет</string>
+    <string name="size">Размер</string>
+    <string name="add_btn">Добавить</string>
+    <string name="edit_btn">Изменить</string>
+    <string-array name="product_types">
+        <item>Куртка</item>
+        <item>Бельё</item>
+        <item>Блузка</item>
+        <item>Брюки</item>
+        <item>Ботинки</item>
+        <item>Шорты</item>
+        <item>Футболка</item>
+    </string-array>
+
+    <string name="item_add_message">Товар успешно добавлен</string>
+
+    <!--Control items-->
+    <string name="item_delete_message">Товар успешно удалён</string>
+    <string name="item_edit_message">Товар успешно изменён</string>
+    <string name="edit">Изменить</string>
+    <string name="delete">Удалить</string>
+
+    <!-- Exchange fragment-->
+    <string name="message_delete_storage">Storage successfully deleted</string>
+    <string name="vendor">Код поставщика</string>
+    <string name="item_data">Данные товара</string>
+    <string name="item_amount">Количество</string>
+    <string name="exchange_btn">Обменять</string>
+
+    <string name="error_required_fields">Заполните все обязательные поля!</string>
+    <string name="error_empty">Заполните все поля!</string>
+    <string name="message_add_second_storage">Добавьте сначала второй склад!</string>
+
+    <string name="search">Поиск...</string>
+
+</resources>

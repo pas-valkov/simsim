@@ -1,0 +1,114 @@
+<resources>
+    <string name="ContentDescription">ContentDescription</string>
+
+    <string name="app_name">Sim Sim</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Nothing interesting</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="enter">Enter</string>
+    <string name="registration">Registration</string>
+    <string name="about_us">About us</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="error_enter">Login or password are incorrect</string>
+
+    <string name="title_activity_registration_page">Registration Page</string>
+    <string name="repeat_password">Repeat password</string>
+    <string name="phone_number">Phone</string>
+    <string name="registration_btn">Register</string>
+    <string name="error_passwords">Passwords do not match</string>
+    <string name="error_len">One or more fields are too short</string>
+
+    <string name="add_storage">Add storage</string>
+    <string name="message_existing_storage">This storage already exists!</string>
+    <string name="descFS">description</string>
+    <string name="FSid">Storage name</string>
+
+    <string name="error_FS">Storage name field can not be empty</string>
+
+    //Пункты меню
+    <string name="add_item">Add Item</string>
+    <string name="buy_item">Buy Item</string>
+    <string name="sell_item">Sell Item</string>
+    <string name="control_items">Control</string>
+    <string name="exchange_items">Exchange Items</string>
+    <string name="edit_item">Edit Item</string>
+    <string-array name="titles">
+        <item>Add Item</item>
+        <item>Buy Item</item>
+        <item>Sell Item</item>
+        <item>Control</item>
+        <item>Exchange Items</item>
+
+    </string-array>
+
+    <string name="add_bar_name">Add Item</string>
+    <string name="buy_bar_name">Buy Item</string>
+    <string name="sell_bar_name">Sell Item</string>
+    <string name="control_bar_name">Control Items</string>
+    <string name="exchange_bar_name">Exchange Items</string>
+
+    <!-- Add fragment-->
+    <string name="vendor_code">Vendor code</string>
+    <string name="article">Article</string>
+    <string name="producer">Producer</string>
+    <string name="size">Size</string>
+    <string name="color">Color</string>
+    <string name="add_btn">Add</string>
+    <string-array name="product_types">
+        <item>Jacket</item>
+        <item>Underwear</item>
+        <item>Blouse</item>
+        <item>Trousers</item>
+        <item>Boots</item>
+        <item>Shorts</item>
+        <item>T-short</item>
+    </string-array>
+
+    <string name="item_add_message">Item successfully added</string>
+
+    <!--Control items-->
+    <string name="item_delete_message">Item successfully deleted</string>
+    <string name="item_edit_message">Items successfully edited</string>
+
+    <!-- Buy and Sell fragments-->
+    <string name="main_add_product">Add product</string>
+    <string name="main_purchase">Purchase</string>
+    <string name="main_sell">Sell</string>
+    <string name="main_sales">Sales</string>
+    <string name="main_management">Management</string>
+    <string name="main_exchange">Exchange</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+
+    <!-- Control fragment-->
+    <string name="edit_btn">Edit Item</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete item</string>
+
+    <!-- Exchange fragment-->
+    <string name="message_delete_storage">Storage successfully deleted</string>
+    <string name="vendor">Item vendor code</string>
+    <string name="item_data">Item data</string>
+    <string name="item_amount">Item amount</string>
+    <string name="exchange_btn">Exchange Item</string>
+
+    <string name="error_required_fields">Fill all required fields!</string>
+    <string name="error_empty">Fill all fields!</string>
+    <string name="message_add_second_storage">Add second storage firstly!</string>
+
+    <string name="search">Search...</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="storage_info">Here u can change storage with which u work</string>
+    <string name="change_storage_btn">Change storage</string>
+
+    <string name="no_any_storage">No any storage</string>
+    <string name="message_no_storages">You don\'t have any storage!</string>
+    <string name="message_add_first_storage">Add some storage first!</string>
+    <string name="no_result">No goods</string>
+
+</resources>
